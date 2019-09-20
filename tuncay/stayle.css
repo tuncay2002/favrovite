@@ -1,0 +1,67 @@
+a{
+text-decoration: none
+
+
+}
+ul{
+    list-style: none;
+}
+.menu-li{
+float: left;
+padding: 0 15px;
+}
+.wrapper{
+    width: 80%;
+    margin: auto;
+
+
+}
+.logo{
+  float: left;
+    color:white;
+    text-transform: uppercase
+}
+.menu{
+    float: right;
+
+
+}
+hr{
+    width: 20px;
+}
+.menu-li a{
+    color:white;
+}
+.fav-text{
+    text-align: center;
+color: azure;
+padding: 300px 0;
+}
+.fav{
+    background-image: url(http://blackrockdigital.github.io/startbootstrap-creative/img/bg-masthead.jpg)
+}
+.fav-text .find{
+background: red;
+text-transform: uppercase;
+color: aliceblue;
+padding: 12px 30px;
+border-radius: 10px;
+
+}
+.find:hover{background: chartreuse;
+color:blue
+}
+
+.fav-text p{
+    padding-bottom: 30px;
+}
+.icon{
+    text-align: center;
+    width: 25%;
+    float:left;
+    box-sizing: border-box;
+    padding: 55px;
+}
+.icon i{
+    font-size: 50px;
+}
